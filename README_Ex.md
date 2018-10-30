@@ -1,0 +1,6 @@
+# DeepLearning_Class(딥러닝 수업)
+ * [딥러닝을 위한 기본_numpy_이미지불러오기](https://github.com/LDJWJ/DeepLearning_Class/blob/master/DL_Py_Lab01_Basic.ipynb)
+ * [Linear Regresion_선형회귀](https://github.com/LDJWJ/DeepLearning_Class/blob/master/DL_Py_Lab02A_singleNN.ipynb)
+ * [Boston Housing Dataset를 활용-딥러닝(1)](https://github.com/LDJWJ/DeepLearning_Class/blob/master/DL_Py_Lab02B_singleNN.ipynb)
+ * [Boston Housing Dataset를 활용-딥러닝(2)](https://github.com/LDJWJ/DeepLearning_Class/blob/master/DL_Py_Lab03_HousePrice.ipynb)
+ * [딥러닝-손글씨](https://github.com/LDJWJ/DeepLearning_Class/blob/master/DL_Py_Lab04_Classification.ipynb)
