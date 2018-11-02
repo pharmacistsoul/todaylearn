@@ -6,9 +6,9 @@ require(stringr)
 
 ### 
 library(tm)
-docs <- c(D1="The sky is blue.", 
-          D2="The sun is bright.",
-          D3="The sun in the sky is bright.")
+docs <- c(D1="I am boy.", 
+          D2="I am girl",
+          D3="I am student")
 
 dd <- Corpus(VectorSource(docs))
 dd <- tm_map(dd, removePunctuation)
